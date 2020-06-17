@@ -7,3 +7,15 @@
 .img {
     text-align: center;
 }
+
+.giphy {
+    width: 300px;
+}
+
+.input {
+    width: 300px;
+    border-radius: 50px;
+    height: 30px;
+    margin: 20px;
+    text-align: center;
+}
