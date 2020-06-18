@@ -1,0 +1,9 @@
+.tituloInput{
+    font-weight: lighter;
+    font-size: medium;
+}
+
+.caixaInput {
+    border-radius: 20px;
+    text-align: center;
+}
