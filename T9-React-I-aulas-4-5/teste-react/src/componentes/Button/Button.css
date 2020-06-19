@@ -1,0 +1,9 @@
+.botao {
+ 
+    border-radius: 50px;
+    font-size: large;
+    font-weight: bolder;
+    background-color: blueviolet;
+    color: whitesmoke;
+    margin: 10px;
+}

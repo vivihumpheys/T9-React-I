@@ -1,0 +1,18 @@
+.img {
+    width: 300px;
+}
+
+body {
+    background-color: lavenderblush;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.container-botao {
+    display: inline block;
+    text-align: center;
+}

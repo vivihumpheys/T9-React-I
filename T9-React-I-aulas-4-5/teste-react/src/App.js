@@ -1,4 +1,5 @@
 import React from "react";
+// import Contador from './componentes/Contador/Contador'
 import SecaoPets from "./componentes/SecaoPets/SecaoPets";
 // import Input from "./componentes/Input/Input";
 // import Titulo from './componentes/Titulo/Titulo'
@@ -13,6 +14,7 @@ import SecaoPets from "./componentes/SecaoPets/SecaoPets";
 
 function App() {
   return (
+
     // <div className="div">
     //   <Titulo user = 'vivi'/>
     //   <div className='div'>  
@@ -32,6 +34,7 @@ function App() {
 
 <SecaoPets />
 
+{/* <Contador /> */}
 </>
 
   );
